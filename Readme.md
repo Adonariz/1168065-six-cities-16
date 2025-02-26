@@ -4,10 +4,10 @@
 
 На проекте используются следующие технологии и инструменты:
 
-Фронтенд: React, TypeScript, React Router
-Управление состоянием: Redux Toolkit
-Работа с запросами: Axios, Redux Thunk
-Тестирование: Vitest, React Testing Library
+Фронтенд: React, TypeScript, React Router  
+Управление состоянием: Redux Toolkit  
+Работа с запросами: Axios, Redux Thunk  
+Тестирование: Vitest, React Testing Library  
 Дополнительно: Leaflet
 
 ### Функционал приложения
